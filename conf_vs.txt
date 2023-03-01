@@ -1,0 +1,8 @@
+receptor = APP.pdbqt
+exhaustiveness  = 10
+center_x = -1.219
+center_y = 2.852
+center_z = -0.835
+size_x = 125
+size_y = 125
+size_z = 125
